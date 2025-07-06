@@ -1,4 +1,4 @@
 # Locally calculated
-sha256  d66c56ad259a82cf2a9dfc408b32bf5da52371500b84745f7fb8b645712df676  libffi-3.4.4.tar.gz
+sha256  f99eb68a67c7d54866b7706af245e87ba060d419a062474b456d3bc8d4abdbd1  libffi-3.5.1.tar.gz
 # License files, locally calculated
-sha256  2c9c2acb9743e6b007b91350475308aee44691d96aa20eacef8e199988c8c388  LICENSE
+sha256  d5699fa516968e3a1550e6c902b7441c78856f2603d61bedd0b0662a26655366  LICENSE
